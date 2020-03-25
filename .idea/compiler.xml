@@ -2,8 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Check_a_code_main" target="11" />
+      <module name="Problems-Check_a_code_test" target="11" />
+      <module name="Problems-Delegation_main" target="11" />
+      <module name="Problems-Delegation_test" target="11" />
+      <module name="Problems-Fix_a_bug_main" target="11" />
+      <module name="Problems-Fix_a_bug_test" target="11" />
+      <module name="Problems-Fridge_main" target="11" />
+      <module name="Problems-Fridge_test" target="11" />
+      <module name="Problems-Last_digit_main" target="11" />
+      <module name="Problems-Last_digit_test" target="11" />
       <module name="Problems-Number_squared_main" target="11" />
       <module name="Problems-Number_squared_test" target="11" />
+      <module name="Problems-Pretty_output_main" target="11" />
+      <module name="Problems-Pretty_output_test" target="11" />
+      <module name="Problems-Very_Big_Number_main" target="11" />
+      <module name="Problems-Very_Big_Number_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
       <module name="Simple_Chatty_Bot-task_test" target="11" />
       <module name="util_main" target="11" />

@@ -11,7 +11,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Check a code" />
+            <option value="$PROJECT_DIR$/Problems/Delegation" />
+            <option value="$PROJECT_DIR$/Problems/Fix a bug" />
+            <option value="$PROJECT_DIR$/Problems/Fridge" />
+            <option value="$PROJECT_DIR$/Problems/Last digit" />
             <option value="$PROJECT_DIR$/Problems/Number squared" />
+            <option value="$PROJECT_DIR$/Problems/Pretty output" />
+            <option value="$PROJECT_DIR$/Problems/Very Big Number" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
